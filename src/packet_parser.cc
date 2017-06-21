@@ -9,7 +9,7 @@
 #include <v8.h>
 
 #include "common.h"
-#include "jsrs_parser.h"
+#include "json5_parser.h"
 
 using std::size_t;
 using std::strlen;

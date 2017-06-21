@@ -4,7 +4,7 @@ const jstp = {};
 module.exports = jstp;
 
 Object.assign(jstp,
-  require('./lib/record-serialization'),
+  require('./lib/json5'),
   require('./lib/errors'),
   require('./lib/applications')
 );
